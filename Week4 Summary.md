@@ -5,8 +5,14 @@
 ### 学习内容
 
 - 根据[blog](https://blog.csdn.net/scott198510/category_11804215.html)以及《**GNSS与惯性及多传感器组合导航系统原理**》，直观理解卡尔曼滤波，并总结了全球卫星导航系统的特点，以及GNSS卫星定位的原理和误差源
+  - 笔记链接：[笔记1](https://github.com/zhaopy20/GNSS_stu/blob/main/INSGNSS组合导航（0）卡尔曼滤波.md),[笔记2](https://github.com/zhaopy20/GNSS_stu/blob/main/INSGNSS组合导航（二）GNSS卫星定位原理及误差源.md)
+
 - 根据[知乎专栏](https://zhuanlan.zhihu.com/p/531982841)在vs 中运行RTKLIB开源代码，使用rtklib自带工具对输出结果分析
+  - [笔记链接](https://github.com/zhaopy20/GNSS_stu/blob/main/RTKLIB%20入门.md)
+
 - 学习[blog](https://blog.csdn.net/tyst08/category_9322275.html)专栏一至十，配合书籍《GNSS原理与接收机设计》前五章，从GPS的基本知识（如时间、坐标系）到定位方程的解算原理系统学习了解
+  - [笔记链接](https://github.com/zhaopy20/GNSS_stu/blob/main/GPS.md)
+
 
 ### 知识点总结
 
